@@ -1,0 +1,1 @@
+d file added which is inside working tree now
