@@ -1,1 +1,4 @@
 This is another file-- named as b--added new contents
+
+one more time added the changes in a file -- which is present -> inside
+staging area
